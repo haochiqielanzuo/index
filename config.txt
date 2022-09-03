@@ -19,7 +19,7 @@
 # 生日
 "birthday": {"name": "陈虹霖", "birthday": "2000-04-22"},
 # 教资
-"examination": {"name": "教资", "examination": "2021-10-29"},
+"birthday": {"name": "教资", "birthday": "2021-10-29"},
 # 出生的日子，格式同上
 "love_date": "2000-04-22",
 # 金句中文，如果为空，默认会读取金山的每日金句
